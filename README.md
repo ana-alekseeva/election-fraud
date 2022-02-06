@@ -20,3 +20,8 @@ Run the Jupyter notebooks in the following order:
 2. Data_Preparation_Germany.ipynb
 3. Comparison_Rus_Germany.ipynb
 4. Fraud_Detection_Russia.ipynb
+
+
+
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
